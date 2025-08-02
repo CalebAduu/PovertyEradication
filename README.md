@@ -9,4 +9,4 @@ You can download and load it using the code snippet below:
 # example to load adapter
 from transformers import AutoAdapterModel
 
-model = AutoAdapterModel.from_pretrained('calebadu/my_finetuned_adapter"')
+model = AutoAdapterModel.from_pretrained('calebadu/my_finetuned_adapter')
